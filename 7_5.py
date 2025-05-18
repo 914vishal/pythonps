@@ -12,8 +12,7 @@ for i in range(1,rows+1):
             res+="*"+" "
         else:
             res+=" "+" "
-    print(res)
-print()    
+    print(res)    
 
 #############------------------
 
@@ -31,8 +30,7 @@ for i in range(1,rows+1):
             res+="*"+" "
         else:
             res+=" "+" "
-    print(res)
-print()    
+    print(res)  
 
 #############------------------
 
